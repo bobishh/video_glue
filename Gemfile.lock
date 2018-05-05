@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.0.5)
+    daemons (1.2.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  concurrent-ruby
+  daemons
+
+BUNDLED WITH
+   1.16.1
